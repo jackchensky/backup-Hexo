@@ -183,7 +183,7 @@ addtoany:
   buttons:
 
 busuanzi_count:
-  enable: false
+  enable: true
   total_visitors: true
   total_visitors_icon: fa fa-user
   total_views: true
