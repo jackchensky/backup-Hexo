@@ -14,8 +14,6 @@ tags:
 
 > 本文记录一次真实折腾过程：NAS 内网里的 Calibre-Web，本地访问正常，手机 5G 也能打开域名端口，但 Kindle Oasis 3 上的 KOReader OPDS 怎么都访问不稳定。最后的稳定方案是：用 Cloudflare Tunnel 给 Calibre-Web 做一个 HTTPS 公网入口。
 
-文中涉及的域名、邮箱、内网 IP、Tunnel ID 等都已脱敏，截图也做了局部打码。
-
 <!--more-->
 
 ## 背景
